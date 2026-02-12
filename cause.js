@@ -112,7 +112,7 @@ shuffleButton.addEventListener('click', () => {
         yoyo: true,
         repeat: 1
     });
-    displayNewReason();
+    
 });
 
 // Floating elements function (same as before)
