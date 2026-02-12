@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Du bist mein Engel!", 
+        text: "Я люблю тебя, мой ангел!", 
         emoji: "💗",
         gif: "gif2.gif"
     },
